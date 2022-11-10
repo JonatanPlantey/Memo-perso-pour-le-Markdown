@@ -16,10 +16,11 @@
 
 Le premier janvier [^1] de cette année.
 
-Line breaks	Double space + enter	
-Unordered Lists	* Item1 *Item 2	
-item1
-item2
+  
+
+* Item1
+*Item 2	
+* item1 *item2
 item3
 item4
 Ordered Lists	1. Item a 2. Item b	
