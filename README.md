@@ -26,9 +26,9 @@ Le premier janvier [^1] de cette année.
 
 1. Item 1 * item 1a
 	
-itema
-item1
-Block quote	> Quoted text	
+> La démonstration
+> est longue
+	
 Stay Hungry Stay Foolish
 Preformatted	Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t.	Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t.
 Code	`Insert Code`	cout<<"Hello world";
