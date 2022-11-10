@@ -1,4 +1,4 @@
-#IA_School
+# IA_School
 
 ## Titre de niveau 2
 
