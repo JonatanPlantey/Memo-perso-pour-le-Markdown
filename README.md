@@ -1,5 +1,5 @@
 #IA_School
-<BR>
+<br>
 ## Titre de niveau 2
-<BR>
+<br>
 ### Titre de niveau 3
