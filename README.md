@@ -12,7 +12,7 @@
 
 ![Caption](https://camo.githubusercontent.com/fb936e68a052eca6a4a8cd34217732ae9c54d27b4f926cc0f46213270d9a8983/687474703a2f2f692e696d6775722e636f6d2f68524c75657a322e706e67)
 
-[![Caption](https://camo.githubusercontent.com/fb936e68a052eca6a4a8cd34217732ae9c54d27b4f926cc0f46213270d9a8983/687474703a2f2f692e696d6775722e636f6d2f68524c75657a322e706e67)](https://fr.wikipedia.org)]	Click me me
+[![Caption](https://camo.githubusercontent.com/fb936e68a052eca6a4a8cd34217732ae9c54d27b4f926cc0f46213270d9a8983/687474703a2f2f692e696d6775722e636f6d2f68524c75657a322e706e67)](https://fr.wikipedia.org)]
 
 Footnotes	I have more [^1] to say. [^1]: say it down here.	Hey,Please read the note below this table.
 Line breaks	Double space + enter	
