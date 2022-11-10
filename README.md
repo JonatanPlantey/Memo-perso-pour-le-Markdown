@@ -37,6 +37,8 @@ Code block/ Syntax highlighting	```insert code```	Hey,Please read the note below
 Headers	#, ##, ###, ####, #####, ###### (from h1 to h6)	
 This is a h3 header
 Strike through	~Insert text here~	I am dead  
-Tables	| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |	
+| Tables | Are | Cool |
+|----------|:-------------:|------:|
+| col 1 is| left-aligned | $1600 |	
 
 [^1]: '2022'.
