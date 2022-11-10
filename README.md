@@ -29,7 +29,7 @@ Le premier janvier [^1] de cette année.
 > La démonstration  
 > est longue
 	
-Stay Hungry Stay Foolish
+
 Preformatted	Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t.	Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t.
 Code	`Insert Code`	cout<<"Hello world";
 Code block/ Syntax highlighting	```insert code```	Hey,Please read the note below this table.
