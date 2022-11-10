@@ -39,5 +39,3 @@ Headers	#, ##, ###, ####, #####, ###### (from h1 to h6)
 This is a h3 header
 Strike through	~Insert text here~	I am dead
 Tables	| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |	
-Footnotes	Footnote[^1]
-[^1]: Text reference	Here is a simple footnote1. With some additional text after it.
