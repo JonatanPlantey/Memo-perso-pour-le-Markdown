@@ -30,7 +30,8 @@ Le premier janvier [^1] de cette année.
 > est longue
 	
 
-Preformatted	Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t.	Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t.
+  J'ai commencé la ligne par    deux espaces
+  pour,Ecrire,Des    bizareries
 Code	`Insert Code`	cout<<"Hello world";
 Code block/ Syntax highlighting	```insert code```	Hey,Please read the note below this table.
 Headers	#, ##, ###, ####, #####, ###### (from h1 to h6)	
