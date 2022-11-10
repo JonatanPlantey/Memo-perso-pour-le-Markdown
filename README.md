@@ -21,7 +21,7 @@
 [![Caption](https://camo.githubusercontent.com/fb936e68a052eca6a4a8cd34217732ae9c54d27b4f926cc0f46213270d9a8983/687474703a2f2f692e696d6775722e636f6d2f68524c75657a322e706e67)](https://fr.wikipedia.org)
 
 Le premier janvier [^1] de cette année. 
-  [^1]:'2022'
+[^1]:'2022'
 
   
 
