@@ -19,7 +19,7 @@ Le premier janvier [^1] de cette année.
   
 
 * Item1
-*Item 2	
+* Item 2	
 * item1 *item2
 item3
 item4
