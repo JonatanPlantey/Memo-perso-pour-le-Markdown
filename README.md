@@ -14,7 +14,7 @@
 
 [![Caption](https://camo.githubusercontent.com/fb936e68a052eca6a4a8cd34217732ae9c54d27b4f926cc0f46213270d9a8983/687474703a2f2f692e696d6775722e636f6d2f68524c75657a322e706e67)](https://fr.wikipedia.org)
 
-Le premier janvier [^1] de cette année. [^1]: 2022.
+Le premier janvier [^1] de cette année.
 
 Line breaks	Double space + enter	
 Unordered Lists	* Item1 *Item 2	
@@ -39,3 +39,5 @@ Headers	#, ##, ###, ####, #####, ###### (from h1 to h6)
 This is a h3 header
 Strike through	~Insert text here~	I am dead
 Tables	| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |	
+
+[^1]: 2022.
