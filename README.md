@@ -23,11 +23,9 @@ Le premier janvier [^1] de cette année.
 
 1. Item a 
 2. Item b	
-itema
-itemb
-itemc
-itemd
-Mixed Lists	1. Item 1 * item 1a	
+
+1. Item 1 * item 1a
+	
 itema
 item1
 Block quote	> Quoted text	
