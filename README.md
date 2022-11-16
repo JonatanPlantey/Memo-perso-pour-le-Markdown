@@ -1,12 +1,22 @@
 
 <h1 align="center">Mon premier Fichier README.md en Markdown</h1>
 
-*L'extension* ***.md*** *provient de* **Markdown**
+<p align="center">
+<em>L'extension</em> <strong>.md</strong> <i><u>provient de</u></i> <b><i>Markdown</i></b>
+</p>
+
+*L'extension* ***.md*** *provient de* **Markdown*
+
+<span class="text-blue">bleu</span>
+<span class="text-grey">gris</span>
+<span class="text-green">vert</span>
+<span class="text-red">rouge</span>
+
 
 ## Titre de niveau 2
 
 ### Titre de niveau 3
-
+<hr>
 #### Titre de niveau 4
 
 ##### Titre de niveau 5
@@ -15,7 +25,7 @@
 
 *This is italic*
 
-
+<hr>
 **Bold**
 
 [lien vers wikipédia](https://fr.wikipedia.org)
