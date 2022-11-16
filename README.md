@@ -1,7 +1,6 @@
-<p align="center">
-# Mon premier Fichier README.md en Markdown
-</p>
+
 <h1 align="center">Mon premier Fichier README.md en Markdown</h1>
+
 *L'extension* ***.md*** *provient de* **Markdown**
 
 ## Titre de niveau 2
