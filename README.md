@@ -48,7 +48,7 @@ Pour le même texte précédé par une ligne vide mais sans les 4 espaces, les t
 <i>Exemple</i>
 <br/>
 
-### b. Utilisation d'un autre tag en langage HTML, pour par exemple bloquer le code Markdown affichant une image, en vue de le présenter ci-dessous sur cette page.
+### b. Utilisation d'un autre tag en langage HTML, pour par exemple bloquer le code Markdown affichant une image, en vue de le présenter ci-dessous.
 
 <b>Code</b>
 
