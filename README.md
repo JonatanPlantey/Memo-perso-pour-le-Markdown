@@ -50,13 +50,13 @@ Pour le même texte précédé par une ligne vide mais sans les 4 espaces, les t
 
 ### b. Utilisation d'un autre tag en langage HTML, pour par exemple bloquer le code Markdown affichant une image, en vue de le présenter ci-dessous.
 
-<b>Code</b>
+<b>Code avec blocage de l'exécution de code (bloqué par les tags à la 1ère et 3ème ligne)</b>
 
     <pre>
     ![Caption](https://upload.wikimedia.org/wikipedia/commons/8/85/Stereographic_projection_in_3D.png)
     </pre>
 
-<b>Rendu</b>
+<b>Rendu sans le blocage de l'exécution de code</b>
 
 ![Caption](https://upload.wikimedia.org/wikipedia/commons/8/85/Stereographic_projection_in_3D.png)
 <br/>
