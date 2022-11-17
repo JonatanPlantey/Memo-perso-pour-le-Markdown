@@ -260,7 +260,7 @@ Pour coder une note en bas de page, il est possible d'utiliser une numérotation
 
 <b>Code</b>
 
-    Cette année là[^Année_de_ma_naissance], je n'avais pas encore un an.
+    Cette année-là[^Année_de_ma_naissance], je n'avais pas encore un an.
 
 <b>Rendu</b>
 
