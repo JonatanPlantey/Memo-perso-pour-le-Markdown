@@ -15,7 +15,7 @@
 ## Possibilités de présentation du texte en Markdown pour Github[^Impossibilités]
 *Complétées par certaines possibilités très utiles permises par le langage HTML.*
 
-Le plus souvent, et autant que faire se peut, les possibilités recensées ci-dessous sont celles utilisées dans ce fichier dans leur ordre d'utilisation.
+Le plus souvent, les possibilités recensées ci-dessous sont celles utilisées dans ce fichier dans leur ordre d'utilisation.
 Si certaines possibilités, affichées dans le navigateur ne sont pas explicitées, elles pourront être retrouvées facilement en éditant ce fichier README dans un éditeur de texte.
 
 <hr>
@@ -48,11 +48,13 @@ Pour le même texte précédé par une ligne vide mais sans les 4 espaces, les t
 <i>Exemple</i>
 <br/>
 
-### b. Utilisation d'un autre tag en langage HTML, pour par exemple bloquer le code Markdown affichant une image, en vue de présenter sur la page.
+### b. Utilisation d'un autre tag en langage HTML, pour par exemple bloquer le code Markdown affichant une image, en vue de présenter celui-ci sur la page.
 
 <b>Code</b>
 
-<pre> ![Caption](https://upload.wikimedia.org/wikipedia/commons/8/85/Stereographic_projection_in_3D.png) </pre>
+    <pre>
+    ![Caption](https://upload.wikimedia.org/wikipedia/commons/8/85/Stereographic_projection_in_3D.png)
+    </pre>
 
 <b>Rendu</b>
 
@@ -150,7 +152,7 @@ On notera ci-dessous les différentes possibilités offertes par le langage HTML
 
 | Code en Markdown | Code en HTML | Rendu |
 |:-:|:-:|:-:|
-|`Texte normal`|Texte normal|Texte normal|
+|`Texte normal`|`Texte normal`|Texte normal|
 |`*Texte en italique*`|`<i>Texte en italique</i>`|<i>Texte en italique</i>|
 | |`<em>Texte en italique</em>`|<em>Texte en italique</em>|
 |`**Texte en gras markdown**`| |**Texte en gras markdown**|
@@ -205,7 +207,8 @@ Noter l'ajout de width="400" (largeur = 400 pixels) à l'URL permettant de redim
 <hr>
 
 ## 8. Début de ligne : puces, numérotation et affichage du texte cité.
-En début de lignes, on obtient les puces usuelles grâce * et les numérotations s'obtennent naturellement.
+En début de lignes, on obtient les puces usuelles grâce au symbole *.<br/>
+Les numérotations s'obtiennent quant à elles naturellement.
 
 <b>Code pour afficher les puces</b>
 
