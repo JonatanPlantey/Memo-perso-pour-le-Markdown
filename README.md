@@ -1,5 +1,5 @@
 
-<h1 align="center">Mon premier Fichier README.md en Markdown pour Github</h1>
+<h1 align="center">Mon premier Fichier README.md en Markdown pour GitHub/GitLab</h1>
 
 <p align="center">
 
