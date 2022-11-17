@@ -104,7 +104,7 @@ Pour le même texte précédé par une ligne vide mais sans les 4 espaces, les t
 ## 4. Afficher un tableau
 
 ### Le texte écrit dans un tableau peut au choix, dans chaque colonne, être aligné à gauche, centré, ou aligné à droite.
-On notera qu'une ligne sur deux est grisée pour faciliter la lecture.
+On notera qu'une ligne sur deux est grisée sur GitHub (et non sur GitLab) pour faciliter la lecture.
 
 <b>Code</b>
 
