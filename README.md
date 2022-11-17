@@ -27,7 +27,7 @@ Si certaines possibilités, affichées dans le navigateur ne sont pas explicité
     retours lignes tapés dans l'éditeur de texte ou doivent être forcés en finissant
     le texte par un deuxième retour ligne ou encore par le tag <br/>.
     Un élément de rupture horizontale (ligne grise épaisse séparant deux parties)
-    peuvent être ajouté par le tag <hr>.
+    peut être ajouté par le tag <hr>.
 
 <hr>
 
