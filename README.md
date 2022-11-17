@@ -270,6 +270,6 @@ Cette année-là[^Année_de_ma_naissance], je n'avais pas encore un an.
 <hr>
 
 
-[^Impossibilités]:*Sur Github* ***il n'est pas possible*** *d'utiliser le langage Markdown pour* ***souligner*** *ou* ***mettre en couleur*** *du texte.*
+[^Impossibilités]:*Sur GitHub/GitLab* ***il n'est pas possible*** *d'utiliser le langage Markdown pour* ***souligner*** *ou* ***mettre en couleur*** *du texte.*
 
 [^Année_de_ma_naissance]: 1979
