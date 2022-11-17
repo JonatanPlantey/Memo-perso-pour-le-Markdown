@@ -206,7 +206,7 @@ Noter l'ajout de width="400" (largeur = 400 pixels) à l'URL permettant de redim
 
 <hr>
 
-## 8. Début de ligne : puces, numérotation et affichage du texte cité.
+## 8. Début de ligne : puces, numérotation et présentation pour une citation de texte.
 En début de lignes, on obtient les puces usuelles grâce au symbole *.<br/>
 Les numérotations s'obtiennent quant à elles naturellement.
 
@@ -270,6 +270,6 @@ Cette année-là[^Année_de_ma_naissance], je n'avais pas encore un an.
 <hr>
 
 
-[^Impossibilités]:*Sur Github* ***il n'est pas possible*** *d'utiliser le langage Markwn pour* ***souligner*** *ou* ***mettre en couleur*** *du texte.*
+[^Impossibilités]:*Sur Github* ***il n'est pas possible*** *d'utiliser le langage Markdown pour* ***souligner*** *ou* ***mettre en couleur*** *du texte.*
 
 [^Année_de_ma_naissance]: 1979
