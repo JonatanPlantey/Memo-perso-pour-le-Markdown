@@ -264,7 +264,7 @@ Pour coder une note en bas de page, il est possible d'utiliser une numérotation
 
 <b>Rendu</b>
 
-Cette année là[^Année_de_ma_naissance], je n'avais pas encore un an.
+Cette année-là[^Année_de_ma_naissance], je n'avais pas encore un an.
 <br/>
 
 <hr>
