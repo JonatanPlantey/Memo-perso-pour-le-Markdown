@@ -1,5 +1,5 @@
 
-<h1 align="center">Mon mémo personnel pour l'usage du Markdown sur GitHub/GitLab</h1>
+<h1 align="center">Mémo personnel pour l'usage du Markdown sur GitHub/GitLab</h1>
 
 <p align="center">
 
